@@ -257,7 +257,7 @@ body {
     padding-left: 20px;
 }
 
-.img-card-1 {background-image: url(./img/card-1.png);}
+.img-card-1 {background-image: url(https://avatars.mds.yandex.net/i?id=294c1cf5f03065c814ebceb513f3d3f40932e582-5220947-images-thumbs&n=13);}
 
 .btn-time {
     background-color: white;
@@ -296,18 +296,18 @@ body {
 }
 
 .course-desc {
-    font-size: 36px;
+    font-size: 25px;
     font-weight: 400;
     color: #767676;
     line-height: 1.7;
     letter-spacing: 0.5px;
 }
 
-.img-card-2 {background-image: url(./img/card-2.png);}
+.img-card-2 {background-image: url(https://avatars.mds.yandex.net/i?id=ca29aaff37b49cf31a5147be85c156b2c6c93033-5483658-images-thumbs&n=13);}
 
-.img-card-3 {background-image: url(./img/card-3.png);}
+.img-card-3 {background-image: url(https://avatars.mds.yandex.net/i?id=dfef1ef9cc06a8bc04d8a2413e268bb7250bc172-4580368-images-thumbs&n=13);}
 
-.img-card-4 {background-image: url(./img/card-4.png);}
+.img-card-4 {background-image: url(https://avatars.mds.yandex.net/i?id=3f85d999754159879b10a22bd8629486e0d40758-4080015-images-thumbs&n=13);}
 
 @media (max-width: 1200px) {
     .header-info-block {
